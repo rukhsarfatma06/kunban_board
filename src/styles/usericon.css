@@ -1,0 +1,26 @@
+.usericon-container {
+    display: flex;
+    align-items: center;
+}
+
+.usericon-text {
+    background-color: #007bff;
+    color: white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.user-status {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.user-status.available {
+    background-color: green;
+}

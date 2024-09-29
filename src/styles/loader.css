@@ -1,0 +1,13 @@
+.loader-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loader {
+    font-size: 1.5rem;
+}
+
+.fullscreen {
+    height: 100vh;
+}
